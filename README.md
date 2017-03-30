@@ -15,9 +15,9 @@
     </div>
 ```
 
-- [ ] aaa
-- [ ] bbb
-- [ ] ccc
+- [x] Foo
+- [ ] Bar
+- [ ] Baz
 
 
 * リスト1
